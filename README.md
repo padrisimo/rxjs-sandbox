@@ -57,5 +57,12 @@ https://jsfiddle.net/k2964or5/18/
 ## .swithcMap()
 https://jsfiddle.net/k2964or5/19/
 
+## .takeUntil()
+https://jsfiddle.net/padrisimo/kvmnwcru/
 
+## .takeWhile()
+https://jsfiddle.net/padrisimo/kvmnwcru/2/
+
+## .zip()
+http://jsbin.com/gopicud/1/edit?html,js,output
 
