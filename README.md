@@ -36,33 +36,50 @@ https://jsfiddle.net/k2964or5/9/
 ## Completion
 https://jsfiddle.net/k2964or5/10/
 
+## Observable Instance Methods
+
 ## .map()
 https://jsfiddle.net/k2964or5/11/
 
-## .do()
+### .do()
 https://jsfiddle.net/k2964or5/12/
 
-## .filter()
+### .filter()
 https://jsfiddle.net/k2964or5/13/
 
-## .first() .last()
+### .first() .last()
 https://jsfiddle.net/k2964or5/15/
 
-## .debounce() .throttle()
+### .debounce() .throttle()
 https://jsfiddle.net/k2964or5/16/
 
-## scan()
+### scan()
 https://jsfiddle.net/k2964or5/18/
 
-## .swithcMap()
+### .swithcMap()
 https://jsfiddle.net/k2964or5/19/
 
-## .takeUntil()
+### .takeUntil()
 https://jsfiddle.net/padrisimo/kvmnwcru/
 
-## .takeWhile()
+### .takeWhile()
 https://jsfiddle.net/padrisimo/kvmnwcru/2/
 
-## .zip()
+### .zip()
 http://jsbin.com/gopicud/1/edit?html,js,output
+
+### .forkJoin()
+https://jsfiddle.net/padrisimo/kvmnwcru/3/
+
+### .catch()
+https://jsfiddle.net/padrisimo/kvmnwcru/4/
+
+### .retry()
+https://jsfiddle.net/padrisimo/kvmnwcru/5/
+
+## Subject
+https://jsfiddle.net/padrisimo/kvmnwcru/6/
+
+### Multicast
+https://jsfiddle.net/padrisimo/kvmnwcru/7/
 
